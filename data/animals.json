@@ -137,10 +137,13 @@
       "id": "13"
     },
     {
+      "name": "Zoe",
+      "species": "Rabbit",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
       "id": "14"
-    },
-    {
-      "id": "15"
     }
   ]
 }
